@@ -1,4 +1,4 @@
-# PySpark-Tests
+# PySpark-ML
 
 This repository serves as a comprehensive resource for participants of the "Machine Learning with Spark" course, aimed at those looking to enhance their skills in data engineering with a focus on Spark's capabilities for Machine Learning (ML). The course offers an in-depth exploration of handling massive datasets within the Big Data paradigm, leveraging Spark's distributed architecture for high-performance data processing and analysis.
 
